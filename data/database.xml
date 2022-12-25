@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product id="1">
+    <image>./images/plants/Mask Group-1.png</image>
+		<name>kaktus 1</name>
+		<price>200</price>
+	</product>
+	<product id="2">
+    <image>./images/plants/Mask Group-2.png</image>
+		<name>ball kaktus</name>
+		<price>400</price>
+	</product>
+    <product id="3">
+      	<image>./images/plants/Mask Group-3.png</image>
+        <name>strange kaktus</name>
+        <price>11</price>
+    </product>
+    <product id="4">
+      	<image>./images/plants/Mask Group-4.png</image>
+        <name>strange kaktus 2</name>
+        <price>999</price>
+    </product>
+    <product id="5">
+      	<image>./images/plants/Mask Group-4.png</image>
+        <name>strange kaktus 2</name>
+        <price>999</price>
+    </product>
+		
+	</products>
